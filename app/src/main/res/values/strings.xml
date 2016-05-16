@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="action_settings">Settings</string>
+    <string name="testNumber">8</string>
+    <string name="openWeatherMapAPI">97a1ae5479b5c402fbf0f48f3439379b</string>
+
+</resources>
